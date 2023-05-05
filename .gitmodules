@@ -1,0 +1,3 @@
+[submodule "authnz"]
+	path = authnz
+	url = https://github.com/hyphenpython/authnz
